@@ -17,6 +17,7 @@
 # Academic
 
 * [University of Virginia Tibet Center](http://uvatibetcenter.org)
+* [New Books in Buddhist Studies](http://newbooksnetwork.com/category/religion-faith/buddhist-studies/) 🎧
 
 # Media
 
@@ -33,14 +34,19 @@
 
 ## Social
 
-* [/r/buddhism])
+* [/r/buddhism](https://www.reddit.com/r/Buddhism/) on Reddit
 * IRC [Snoonet](https://kiwiirc.com/nextclient/?settings=wnuYl5a8fLp), see [#irchelp](http://www.irchelp.org) for more about IRC.
   * [#buddhism](https://kiwiirc.com/client/irc.snoonet.org/buddhism)
 
 ## Podcasts
 
-* [Urban Dharma NC](https://urbandharmancpodcast.wordpress.com) - Drikung Kagyu
+* [Urban Dharma NC](https://urbandharmancpodcast.wordpress.com) - Tibetan
 * [Free Buddhist Audio](https://www.freebuddhistaudio.com) - General
+* [Dharma Seed](http://www.dharmaseed.org) - Vipassana
+* [Audio Dharma](http://www.audiodharma.org) - Insight Meditation
+* [Buddhist Geeks](https://www.buddhistgeeks.org/about/) - General
+* [The Interdependence Project](http://theidproject.org/media) - General
+* [Zencast](http://www.zencast.org) - Zen
 
 ## Book Publishers
 
@@ -74,11 +80,22 @@
 ## Mahayana
 
 ### Chan
-* [Wikipedia](https://en.wikipedia.org/wiki/Chan_Buddhism)
+* [Wikipedia](https://en.wikipedia.org/wiki/Chan_Buddhism) - Chan is a tradition of Mahāyāna Buddhism developed in China from the 6th century CE onwards. After Yuan Dynasty (1279–1368), Chan more or less fused with Pure Land Buddhism. Chan spread south to Vietnam as Thiền and north to Korea as Seon, and, in the 13th century, east to Japan as Zen.
 ### Korean Seon
-* [Wikipedia](https://en.wikipedia.org/wiki/Korean_Seon)
+* [Wikipedia](https://en.wikipedia.org/wiki/Korean_Seon) - Seon is the religious Korean denomination of Chan Buddhism tradition. A primary feature of Seon Buddihism is a method of mediation, Ganhaw Seon. In the early 20th century, Master Kyongho (1849–1912), re-energized Korean Seon.
 ### Japanese Zen
-* [Wikipedia](https://en.wikipedia.org/wiki/Japanese_Zen)
+* [Wikipedia](https://en.wikipedia.org/wiki/Japanese_Zen) - Zen is the Japanese variant of Chan Buddhism, a Mahayana school that strongly emphasizes dhyana concentration-meditation. This practice, according to Zen proponents, gives insight into one's true nature, or the emptiness of inherent existence, which opens the way to a liberated way of living.
+
+#### Soto
+* [Wikipedia](https://en.wikipedia.org/wiki/Sōtō)
+* [The Shōbōgenzō](http://www.thezensite.com/ZenTeachings/Dogen_Teachings/Shobogenzo_Complete.html)
+
+#### Ōbaku
+* [Wikipedia](https://en.wikipedia.org/wiki/Ōbaku)
+
+#### Rinzai
+* [Wikipedia](https://en.wikipedia.org/wiki/Rinzai_school)
+
 ### Pure Land
 * [Wikipedia](https://en.wikipedia.org/wiki/Pure_land)
 ### Nichiren
@@ -87,6 +104,9 @@
 ## Vajrayana
 
 ### Tibetan
+* [Wikipedia](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
+* [Rigpa Shedra Wiki](http://www.rigpawiki.org/index.php?title=Main_Page) - An online encyclopedia of Tibetan Buddhism.
+* [84000](http://read.84000.co) - 84000’s primary focus for translation is the canonical Tibetan texts included in the Kangyur and Tengyur.
 
 #### Kagyu
 * [Wikipedia](https://en.wikipedia.org/wiki/Kagyu)
