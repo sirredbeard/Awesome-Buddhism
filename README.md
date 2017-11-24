@@ -11,10 +11,38 @@
 	* [Being a Buddhist](https://www.diamondway-buddhism.org/buddhism/being-a-buddhist/) - Tibetan
 	* [The life of the Buddha](https://www.diamondway-buddhism.org/buddhism/buddha/) - Tibetan
 	* [Buddha's teachings](https://www.diamondway-buddhism.org/buddhism/buddhas-teachings/) - Tibetan
+* [Introduction to Buddhism](http://www.buddhanet.net/e-learning/intro_bud.htm) - Theravada
 
 # Meditation
 
-* [Meditation Online](http://www.meditationonline.org)
+* [How to Meditate](https://www.lionsroar.com/category/how-to/) - Learn how to meditate with plain-language instructions and advice. - General
+* [Tibetan Buddhist Meditation](https://tricycle.org/magazine/tibetan-buddhist-meditation/) - Learn how to practice Tibetan Buddhist Meditation by focusing your attention on the mind. - Tibetan
+* [Meditation Online](http://www.meditationonline.org) - Online meditation groups using video chat. Free. - General
+
+* [Vipassana Fellowship](http://www.vipassana.com/course/) - Online meditation course. $140. - Theravada
+
+# Selected Teachings
+
+## On Relationships
+
+* [Buddhism and Relationships](http://archive.is/c91Mc)
+* [Buddhism & Relationships: the Four Noble Truths of Love](https://www.elephantjournal.com/2017/10/buddhism-relationships-the-four-noble-truths-of-love/)
+
+## On Money
+
+* [Buddhist attitude to Wealth](https://www.buddhistdoor.net/features/buddhist-attitude-to-wealth)
+
+## On Science
+
+* [Where Buddhism and Science Meet: Teachings, Commentary, and News](https://www.lionsroar.com/buddhism-science-teachings-reports-commentaries-and-conversations/)
+* [Is Buddhism the Most Science-Friendly Religion?](https://blogs.scientificamerican.com/guest-blog/is-buddhism-the-most-science-friendly-religion/)
+* [Why (Science Says) Buddhism Is True](https://tricycle.org/trikedaily/why-buddhism-is-true-science/) 🎧
+
+## On Anger
+
+* [Loosening the Knots of Anger Through Mindfulness Practice](https://www.lionsroar.com/loosening-the-knots-of-anger/)
+
+## On Technology
 
 # History
 
@@ -24,7 +52,23 @@
 # Academic Resources
 
 * [University of Virginia Tibet Center](http://uvatibetcenter.org)
+* [Rangjung Yeshe Institute](http://www.ryi.org/programs/online-learning)
 * [New Books in Buddhist Studies](http://newbooksnetwork.com/category/religion-faith/buddhist-studies/) 🎧
+
+-------------
+
+# Notable Teachers
+
+* Buddha
+* The Dalai Lama
+* Ajahn Chah
+* Thích Nhất Hạnh
+* Pema Chodron 
+* Sharon Salzberg
+* Robert Thurman
+* Dr. Judith Simmer-Brown
+* Dzigar Kongtrul Rinpoche
+* Ponlop Rinpoche
 
 -------------
 
@@ -41,7 +85,7 @@
 * [Tiny Buddha](https://tinybuddha.com)
 * [Elephant Journal](https://www.elephantjournal.com)
 
-## Websites
+## Compilation Websites
 
 * [DharmaNet](http://www.dharmanet.org) - DharmaNet is a multi-media resource center for learning about meditation, wisdom, and compassionate action. 
 * [Study Buddhism](https://studybuddhism.com) - Study Buddhism is an extensive source of authentic Buddhist teachings, presented in a down-to-earth and practical way. Free, the aim is to make the wisdom of Tibet available and accessible.
@@ -80,7 +124,8 @@
 
 This section is a "map" of the various schools of Buddhism.
 
-# Theravada
+# Theravada 🇱🇰🇱🇦🇰🇭🇹🇭
+
 * [Wikipedia](https://en.wikipedia.org/wiki/Theravada) - Theravāda (Pali, literally "school of the elder monks") is a branch of Buddhism that uses the Buddha's teaching preserved in the Pāli Canon as its doctrinal core. 
 * [Acccess To Insight](https://www.accesstoinsight.org/index.html) - Readings in Theravada Buddhism.
 	* [What is Theravada Buddhism?](https://www.accesstoinsight.org/theravada.html)
@@ -91,34 +136,48 @@ This section is a "map" of the various schools of Buddhism.
 * [Map of the Tipitaka](https://imgur.com/51aU7H2.jpg) 📷
 * [Barre Center for Buddhist Studies](https://www.bcbsdharma.org) 🇺🇸
 
-# Mahayana
+# Mahayana: Chan and Zen 🇨🇳🇹🇼🇯🇵🇰🇵🇰🇷
 
 ## Chan
 * [Wikipedia](https://en.wikipedia.org/wiki/Chan_Buddhism) - Chan is a tradition of Mahāyāna Buddhism developed in China from the 6th century CE onwards. After Yuan Dynasty (1279–1368), Chan more or less fused with Pure Land Buddhism. Chan spread south to Vietnam as Thiền and north to Korea as Seon, and, in the 13th century, east to Japan as Zen.
+
 ## Korean Seon
 * [Wikipedia](https://en.wikipedia.org/wiki/Korean_Seon) - Seon is the religious Korean denomination of Chan Buddhism tradition. A primary feature of Seon Buddihism is a method of mediation, Ganhaw Seon. In the early 20th century, Master Kyongho (1849–1912), re-energized Korean Seon.
+
 ## Japanese Zen
 * [Wikipedia](https://en.wikipedia.org/wiki/Japanese_Zen) - Zen is the Japanese variant of Chan Buddhism, a Mahayana school that strongly emphasizes dhyana concentration-meditation. This practice, according to Zen proponents, gives insight into one's true nature, or the emptiness of inherent existence, which opens the way to a liberated way of living.
 ### Sōtō
 * [Wikipedia](https://en.wikipedia.org/wiki/Sōtō) - Sōtō is the largest of the three traditional sects of Zen in Japanese Buddhism. It emphasizes Shikantaza, meditation with no objects, anchors, or content. The meditator strives to be aware of the stream of thoughts, allowing them to arise and pass away without interference.
+* [Soto Zen International Official Website](http://global.sotozen-net.or.jp/eng/index.html) 🇯🇵
 * [The Shōbōgenzō](http://www.thezensite.com/ZenTeachings/Dogen_Teachings/Shobogenzo_Complete.html)
 ### Rinzai
 * [Wikipedia](https://en.wikipedia.org/wiki/Rinzai_school) - Rinzai is one of three sects of Zen in Japanese Buddhism. Rinzai Zen is marked by the emphasis it places on kensho ("seeing one's true nature") as the gateway to authentic Buddhist practice, and for its insistence on many years of exhaustive post-kensho training to embody the free functioning of wisdom within the activities of daily life.
+* [Joint Council of Rinzai and Ōbaku Zen](http://zen.rinnou.net/index.html) 🇯🇵
 ### Ōbaku
 * [Wikipedia](https://en.wikipedia.org/wiki/Ōbaku) - Ōbaku is often termed the third sect of Zen Buddhism in Japan, it was established in 1661 by a small gruop of masters from China and their Japanese students at Manpuku-ji in Uji, Japan. In addition to their contribution to the culture of Zen in Japan, the Ōbaku also "disseminated many aspects of Ming-period culture" in the country.
+* [Joint Council of Rinzai and Ōbaku Zen](http://zen.rinnou.net/index.html) 🇯🇵
+
+# Mahayana: Pure Land 
+
+## Pure Land 🇨🇳🇹🇼🇯🇵🇰🇵🇰🇷
+* [Wikipedia](https://en.wikipedia.org/wiki/Pure_Land_Buddhism) - Pure Land Buddhism is a broad branch of Mahayana Buddhism and one of the most widely practiced traditions of Buddhism in East Asia. Pure Land is a tradition of Buddhist teachings that are focused on the Buddha Amitābha. Pure Land Buddhism is built on the belief that we will never have a world which is not corrupt, so we must strive for re-birth in another plane, referred to as the "Pure Land".
+
+### Jōdo Shinshū 🇯🇵
+* [Wikipedia](https://en.wikipedia.org/wiki/Jōdo_Shinshū) - Jōdo Shinshū also known as Shin Buddhism, is a school of Pure Land Buddhism. It was founded by the former Tendai Japanese monk Shinran. Shin Buddhism is considered the most widely practiced branch of Buddhism in Japan.
+
+# Additional Chinese Mahayana 🇨🇳🇹🇼
 
 ## Huayan
 * [Wikipedia](https://en.wikipedia.org/wiki/Huayan) - Huayan is a tradition of Mahayana Buddhist philosophy that first flourished in China during the Tang dynasty. The Huayen teachines are  based primarily on the Avatamsaka Sutra. Huayan School is known as Hwaeom in Korea and Kegon in Japan. The tradition also had a strong influence on Chan Buddhism.
 
-## Pure Land
-* [Wikipedia](https://en.wikipedia.org/wiki/Pure_Land_Buddhism) - Pure Land Buddhism is a broad branch of Mahayana Buddhism and one of the most widely practiced traditions of Buddhism in East Asia. Pure Land is a tradition of Buddhist teachings that are focused on the Buddha Amitābha. Pure Land Buddhism is built on the belief that we will never have a world which is not corrupt, so we must strive for re-birth in another plane, referred to as the "Pure Land".
+# Additional Japanese Mahayana 🇯🇵
 
 ## Nichiren
 * [Wikipedia](https://en.wikipedia.org/wiki/Nichiren) - Nichiren Buddhism is a branch of Mahayana Buddhism based on the teachings of the 13th century Japanese priest Nichiren (1222–1282). Nichiren Buddhism focuses on the Lotus Sutra doctrine that all people have an innate Buddha-nature. There are two essential emphases in the practice of Nichiren Buddhism. First is the chanting of [Nam Myoho Renge Kyo](https://en.wikipedia.org/wiki/Namu_Myōhō_Renge_Kyō) which Nichiren believers contend has extraordinary power. Second is the [Gohonzon](https://en.wikipedia.org/wiki/Gohonzon), a calligraphy which is prominently displayed in the home or temple altars of Nichiren believers.
 
 # Vajrayana
 
-## Tibetan
+## Tibetan ༀ
 * [Wikipedia](https://en.wikipedia.org/wiki/Tibetan_Buddhism) - Tibetan Buddhism is the form of Buddhist Vajrayana doctrine and institutions named after the lands of Tibet, but also found in the regions surrounding the Himalayas and much of Central Asia. It derives from the latest stages of Indian Buddhism and preserves the Tantric status quo of eighth-century India. It has been spread outside of Tibet, especially due to the Mongol power of the Yuan dynasty (1271–1368), founded by Kublai Khan, that also ruled China. Tibetan Buddhism applies Tantric practices, especially deity yoga, and aspires to Buddhahood.
 * [Rigpa Shedra Wiki](http://www.rigpawiki.org/index.php?title=Main_Page) - An online encyclopedia of Tibetan Buddhism.
 * [84000](http://read.84000.co) - 84000’s primary focus for translation is the canonical Tibetan texts included in the Kangyur and Tengyur.
@@ -144,7 +203,7 @@ This section is a "map" of the various schools of Buddhism.
 
 ###### Drikung Kagyu
 * [Wikipedia](https://en.wikipedia.org/wiki/Drikung_Kagyu) - The Drikung Kagyu was founded by Jigten Sumgön (1143-1217) of the Kyura clan, who was the disciple of Phagmo Drupa. The first and main Drikung Kagyu monastery is Drikung Thil Monastery founded in 1179 by Jigten Sumgön approximately 150 kilometers northeast of Lhasa. The Drikung lineage is popularly known for its development of the practice of Phowa, in which a practitioner learns how to expel his/her consciousness or mindstream through the posterior fontanelle at the top of the skull at the moment of death. Another unique feature of the Drikung lineage is its female dharmapāla, Achi Chokyi Drolma. One of the two current heads of the lineage are Drikung Kyabgön Chetsang Rinpoche the 37th Drikungpa, and Drikung Kyabgön Chungtsang Rinpoche, the 36th Drikungpa.
-* [Official Website of the Drikung Kagyu Order](http://www.drikung.org)
+* [Official Website](http://www.drikung.org)
 
 ###### Lingre Kagyu
 * [Wikipedia](https://en.wikipedia.org/wiki/Kagyu#Lingre_Kagyu) - Lingre Kagyu refers to the lineages founded by Lingrepa Pema Dorje.
@@ -168,6 +227,7 @@ This section is a "map" of the various schools of Buddhism.
 
 ### Nyingma
 * [Wikipedia](https://en.wikipedia.org/wiki/Nyingma) - The Nyingma tradition is the oldest of the four major schools of Tibetan Buddhism. The Nyingma particularly believes in hidden terma treasures and place an emphasis on Dzogchen. The Nyingma tradition actually comprises several distinct lineages that all trace their origins to the Indian master Padmasambhava. Traditionally, Nyingmapa practice was advanced orally among a loose network of lay practitioners. Monasteries with celibate monks and nuns, along with the practice of reincarnated spiritual leaders are later adaptations.
+
 ### Sakya
 * [Wikipedia](https://en.wikipedia.org/wiki/Sakya) - The Sakya tradition developed during the second period of translation of Buddhist scripture from Sanskrit into Tibetan in the late 11th century. It was founded by Drogmi, a famous scholar and translator who had studied at the Vikramashila directly under Naropa, Ratnākaraśānti, Vagishvakirti and other great panditas from India for twelve years. The head of the Sakya school, known as Sakya Trizin, is always drawn from the male line of the Khön family.
 
@@ -180,7 +240,7 @@ This section is a "map" of the various schools of Buddhism.
 #### Rime Movement
 * [Wikipedia](https://en.wikipedia.org/wiki/Rimé_movement) - The Rimé movement is a movement involving the Sakya, Kagyu and Nyingma schools of Tibetan Buddhism, along with some Bon scholars. Rimé was intended to recognize the differences between traditions and appreciate them, while also establishing a dialogue which would create common ground. Rimé is responsible for a number of scriptural compilations, such as the Rinchen Terdzod and the Sheja Dzö.
 
-## Japanese Vajrayana
+## Japanese Vajrayana 🇯🇵
 
 ### Shingon
 * [Wikipedia](https://en.wikipedia.org/wiki/Shingon_Buddhism) - Shingon is one of the major schools of Buddhism in Japan and one of the few surviving Vajrayana lineages in East Asia, originally spread from India to China through traveling monks such as Vajrabodhi and Amoghavajra.
@@ -191,15 +251,15 @@ This section is a "map" of the various schools of Buddhism.
 
 ## Other Vajrayana
 
-#### Nepalese Newar Buddhism
+#### Nepalese Newar Buddhism 🇳🇵
 * [Wikipedia](https://en.wikipedia.org/wiki/Newar_Buddhism) - Newar Buddhism is the form of Vajrayana Buddhism practiced by the Newar people of the Kathmandu Valley, Nepal. It has developed unique socio-religious elements, which include a non-monastic Buddhist society based on the Newar caste system and patrilineality.
 #### Tantric Theravada
 * [Wikipedia](https://en.wikipedia.org/wiki/Tantric_Theravada) - Tantric Theravada is used to refer to certain Tantric and esoteric practices, viewsm and texts within Theravada Buddhism. One specific kind of Tantric Theravada is termed the Yogāvacara tradition and this kind of esoteric Buddhism is most widely practiced today in Cambodia and Laos and in the pre-modern era was a major Buddhist current in Southeast Asia.
-#### Indonesian Esoteric Buddhism
+#### Indonesian Esoteric Buddhism 🇮🇩
 * [Wikipedia](https://en.wikipedia.org/wiki/Indonesian_Esoteric_Buddhism) - Indonesian Esoteric Buddhism refers to the traditions of Vajrayana Buddhism found in Maritime Southeast Asia which emerged in the 7th century along the maritime trade routes and port cities of the Indonesian islands of Java and Sumatra as well as in Malaysia.
-#### Chinese Esoteric Buddhism
+#### Chinese Esoteric Buddhism 🇨🇳🇹🇼
 * [Wikipedia](https://en.wikipedia.org/wiki/Chinese_Esoteric_Buddhism) - Chinese Esoteric Buddhism refers to traditions of Tantra and Esoteric Buddhism that have flourished among the Chinese. Esoteric Buddhist practices continued to have an influence into the late imperial period and Tibetan Buddhism was also influential during the Yuan dynasty period and beyond.
-#### Korean milgyo
+#### Korean milgyo 🇰🇵🇰🇷
 * [Wikipedia](https://en.wikipedia.org/wiki/Vajrayana#Korean_milgyo) - Korean milgyo refers to Vajrayana practices and texts that arrived in Korea during the initial introduction of Buddhism to the region in 372 CE.
 
 # Other Forms
@@ -213,9 +273,20 @@ This section is a "map" of the various schools of Buddhism.
 
 ## Karma and Rebirth
 
+[Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
+[Rebirth in Buddhism](https://en.wikipedia.org/wiki/Rebirth_(Buddhism))
+
 ## Cosmology
 
+[Buddhist cosmology](https://en.wikipedia.org/wiki/Buddhist_cosmology)
+
 ## Engaged Buddhism
+
+[Engaged Buddhism](https://en.wikipedia.org/wiki/Engaged_Buddhism)
+
+## More
+
+[Abhidharma](https://en.wikipedia.org/wiki/Abhidharma)
 
 -------------
 
