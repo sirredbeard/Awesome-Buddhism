@@ -5,8 +5,12 @@
 
 # Introduction
 
-* [What Are the Four Noble Truths?](https://www.lionsroar.com/what-are-the-four-noble-truths/)
-* [What is the Eightfold Path?](https://www.lionsroar.com/what-is-eightfold-path/)
+* [What Are the Four Noble Truths?](https://www.lionsroar.com/what-are-the-four-noble-truths/) - General
+* [What is the Eightfold Path?](https://www.lionsroar.com/what-is-eightfold-path/) - General 
+* [What is Buddhism?](https://www.diamondway-buddhism.org/buddhism/) - Tibetan
+	* [Being a Buddhist](https://www.diamondway-buddhism.org/buddhism/being-a-buddhist/) - Tibetan
+	* [The life of the Buddha](https://www.diamondway-buddhism.org/buddhism/buddha/) - Tibetan
+	* [Buddha's teachings](https://www.diamondway-buddhism.org/buddhism/buddhas-teachings/) - Tibetan
 
 # Meditation
 
@@ -15,6 +19,7 @@
 # History
 
 * [Silk Road transmission of Buddhism](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
+* [Buddhism in America](http://pluralism.org/religions/buddhism/buddhism-in-america/)
 
 # Academic Resources
 
@@ -78,6 +83,8 @@ This section is a "map" of the various schools of Buddhism.
 # Theravada
 * [Wikipedia](https://en.wikipedia.org/wiki/Theravada) - Theravāda (Pali, literally "school of the elder monks") is a branch of Buddhism that uses the Buddha's teaching preserved in the Pāli Canon as its doctrinal core. 
 * [Acccess To Insight](https://www.accesstoinsight.org/index.html) - Readings in Theravada Buddhism.
+	* [What is Theravada Buddhism?](https://www.accesstoinsight.org/theravada.html)
+* [Theravada Buddhism: A Brief Introduction to Its History and Teachings](https://www.thoughtco.com/theravada-buddhism-450111)
 * [SuttaCentral](https://suttacentral.net) - Early Buddhist texts, translations, and parallels
 * [Dhamma Wheel](https://dhammawheel.com) - A Buddhist discussion forum on the Dhamma of the Theravāda.
 * [dhammatalks.org](https://www.dhammatalks.org) - This site offers an extensive collection of English translations of suttas from the Pāli Canon, as well as a multitude of free downloads of Dhamma from the Kammaṭṭhāna (or Thai Forest) Tradition of Buddhism. 🎧
@@ -137,6 +144,8 @@ This section is a "map" of the various schools of Buddhism.
 
 ###### Drikung Kagyu
 * [Wikipedia](https://en.wikipedia.org/wiki/Drikung_Kagyu) - The Drikung Kagyu was founded by Jigten Sumgön (1143-1217) of the Kyura clan, who was the disciple of Phagmo Drupa. The first and main Drikung Kagyu monastery is Drikung Thil Monastery founded in 1179 by Jigten Sumgön approximately 150 kilometers northeast of Lhasa. The Drikung lineage is popularly known for its development of the practice of Phowa, in which a practitioner learns how to expel his/her consciousness or mindstream through the posterior fontanelle at the top of the skull at the moment of death. Another unique feature of the Drikung lineage is its female dharmapāla, Achi Chokyi Drolma. One of the two current heads of the lineage are Drikung Kyabgön Chetsang Rinpoche the 37th Drikungpa, and Drikung Kyabgön Chungtsang Rinpoche, the 36th Drikungpa.
+* [Official Website of the Drikung Kagyu Order](http://www.drikung.org)
+
 ###### Lingre Kagyu
 * [Wikipedia](https://en.wikipedia.org/wiki/Kagyu#Lingre_Kagyu) - Lingre Kagyu refers to the lineages founded by Lingrepa Pema Dorje.
 ###### Drukpa Lineage
