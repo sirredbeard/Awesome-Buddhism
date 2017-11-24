@@ -1,6 +1,8 @@
 # Awesome-Buddhism
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+-------------
+
 # Introductory
 
 * [What Are the Four Noble Truths?](https://www.lionsroar.com/what-are-the-four-noble-truths/)
@@ -18,6 +20,8 @@
 
 * [University of Virginia Tibet Center](http://uvatibetcenter.org)
 * [New Books in Buddhist Studies](http://newbooksnetwork.com/category/religion-faith/buddhist-studies/) 🎧
+
+-------------
 
 # Media
 
@@ -66,7 +70,11 @@
 
 * [Tzu Chi](http://tw.tzuchi.org/en) - Taiwanese international humanitarian and non-governmental organization (NGO) founded by Master Cheng Yen, a Taiwanese Buddhist nun.
 
+-------------
+
 # Explore The World of Buddhism
+
+This section is a "map" of the various schools of Buddhism.
 
 ## Theravada
 * [Wikipedia](https://en.wikipedia.org/wiki/Theravada) - Theravāda (Pali, literally "school of the elder monks") is a branch of Buddhism that uses the Buddha's teaching preserved in the Pāli Canon as its doctrinal core. 
@@ -180,3 +188,11 @@
 ## Other Forms
 
 * [Triratna Buddhist Community](https://en.wikipedia.org/wiki/Triratna_Buddhist_Community)
+
+-------------
+
+All other trademarks mentioned herein are the property of their respective owners and may be registered in the United States and/or other countries.
+
+This document is licensed under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Portions of the descriptions above are from Wikipedia and used under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
