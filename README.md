@@ -1,3 +1,5 @@
+-------------
+
 # Awesome-Buddhism 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -14,7 +16,7 @@
 
 * [Silk Road transmission of Buddhism](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
 
-# Academic
+# Academic Resources
 
 * [University of Virginia Tibet Center](http://uvatibetcenter.org)
 * [New Books in Buddhist Studies](http://newbooksnetwork.com/category/religion-faith/buddhist-studies/) 🎧
