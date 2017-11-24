@@ -17,8 +17,7 @@
 
 * [How to Meditate](https://www.lionsroar.com/category/how-to/) - Learn how to meditate with plain-language instructions and advice. - General
 * [Tibetan Buddhist Meditation](https://tricycle.org/magazine/tibetan-buddhist-meditation/) - Learn how to practice Tibetan Buddhist Meditation by focusing your attention on the mind. - Tibetan
-* [Meditation Online](http://www.meditationonline.org) - Online meditation groups using video chat. Free. - General
-* [Vipassana Fellowship](http://www.vipassana.com/course/) - Online meditation course. $140. - Theravada
+* [Meditation Online](http://www.meditationonline.org) - Online meditation groups using video chat. - General
 
 # Selected Buddhist Teachings
 
@@ -30,10 +29,15 @@
 ## On Money
 
 * [Buddhist attitude to Wealth](https://www.buddhistdoor.net/features/buddhist-attitude-to-wealth)
+* [Buddhism and Money: The Repression of Emptiness Today](http://www.zen-occidental.net/articles1/loy4.html)
+* [The Greatest Wealth is Contentment: A Buddhist Perspective on Poverty](https://www.upaya.org/2011/10/the-greatest-wealth-is-contentment-a-buddhist-perspective-on-poverty/)
+* [The Buddha on Making Money](https://www.christophertitmussblog.org/the-buddha-on-making-money)
+* [Does Buddhism say I should give money to panhandlers?](https://www.lionsroar.com/does-buddhism-say-i-should-give-money-to-panhandlers/)
 
 ## On Science
 
 * [Where Buddhism and Science Meet: Teachings, Commentary, and News](https://www.lionsroar.com/buddhism-science-teachings-reports-commentaries-and-conversations/)
+* [Mind and Life Institute](https://www.mindandlife.org) - Founded in 1991 to establish the field of contemplative sciences. Based in Charlottesville, Va., the institute provides a home for scholars and scientists from different disciplines around the world to incorporate contemplative practices into various fields of study.
 * [Is Buddhism the Most Science-Friendly Religion?](https://blogs.scientificamerican.com/guest-blog/is-buddhism-the-most-science-friendly-religion/)
 * [Why (Science Says) Buddhism Is True](https://tricycle.org/trikedaily/why-buddhism-is-true-science/) 🎧
 
@@ -54,11 +58,9 @@
 * [Rangjung Yeshe Institute](http://www.ryi.org/programs/online-learning)
 * [New Books in Buddhist Studies](http://newbooksnetwork.com/category/religion-faith/buddhist-studies/) 🎧
 
--------------
-
 # Notable Teachers
 
-* Buddha
+* The Buddha
 * The Dalai Lama
 * Ajahn Chah
 * Thích Nhất Hạnh
@@ -68,8 +70,6 @@
 * Dr. Judith Simmer-Brown
 * Dzigar Kongtrul Rinpoche
 * Ponlop Rinpoche
-
--------------
 
 # Media
 
@@ -102,6 +102,10 @@
 
 ## Video
 
+## Art
+
+## Music
+
 ## Book Publishers
 
 * [Wisdom Publications](http://www.wisdompubs.org) - General
@@ -115,17 +119,13 @@
 * [DharmaNet](http://www.dharmanet.org) - DharmaNet is a multi-media resource center for learning about meditation, wisdom, and compassionate action. 
 * [Study Buddhism](https://studybuddhism.com) - Study Buddhism is an extensive source of authentic Buddhist teachings, presented in a down-to-earth and practical way. Free, the aim is to make the wisdom of Tibet available and accessible.
 
--------------
-
-# Buddhist Civil Society
+# Buddhist Organizations
 
 * [Tzu Chi](http://tw.tzuchi.org/en) - Taiwanese international humanitarian and non-governmental organization (NGO) founded by Master Cheng Yen, a Taiwanese Buddhist nun. 🇹🇼
 
--------------
-
 # Explore The World of Buddhism
 
-This section is a "map" of the various schools of Buddhism.
+This next section is a "map" of the various schools of Buddhism.
 
 # Theravada 🇱🇰🇱🇦🇰🇭🇹🇭
 
@@ -178,6 +178,8 @@ This section is a "map" of the various schools of Buddhism.
 
 ## Nichiren
 * [Wikipedia](https://en.wikipedia.org/wiki/Nichiren) - Nichiren Buddhism is a branch of Mahayana Buddhism based on the teachings of the 13th century Japanese priest Nichiren (1222–1282). Nichiren Buddhism focuses on the Lotus Sutra doctrine that all people have an innate Buddha-nature. There are two essential emphases in the practice of Nichiren Buddhism. First is the chanting of [Nam Myoho Renge Kyo](https://en.wikipedia.org/wiki/Namu_Myōhō_Renge_Kyō) which Nichiren believers contend has extraordinary power. Second is the [Gohonzon](https://en.wikipedia.org/wiki/Gohonzon), a calligraphy which is prominently displayed in the home or temple altars of Nichiren believers.
+
+## Soka Gakkai
 
 # Vajrayana
 
@@ -272,7 +274,11 @@ This section is a "map" of the various schools of Buddhism.
 
 -------------
 
-# Advanced Concepts in Buddhism
+# Advanced Discussions in Buddhism
+
+## Buddhism in the West
+
+[Buddhism in the West](https://en.wikipedia.org/wiki/Buddhism_in_the_West)
 
 ## Karma and Rebirth
 
