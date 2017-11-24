@@ -1,5 +1,3 @@
--------------
-
 # Awesome-Buddhism 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -180,6 +178,8 @@ This next section is a "map" of the various schools of Buddhism.
 * [Wikipedia](https://en.wikipedia.org/wiki/Nichiren) - Nichiren Buddhism is a branch of Mahayana Buddhism based on the teachings of the 13th century Japanese priest Nichiren (1222–1282). Nichiren Buddhism focuses on the Lotus Sutra doctrine that all people have an innate Buddha-nature. There are two essential emphases in the practice of Nichiren Buddhism. First is the chanting of [Nam Myoho Renge Kyo](https://en.wikipedia.org/wiki/Namu_Myōhō_Renge_Kyō) which Nichiren believers contend has extraordinary power. Second is the [Gohonzon](https://en.wikipedia.org/wiki/Gohonzon), a calligraphy which is prominently displayed in the home or temple altars of Nichiren believers.
 
 ## Soka Gakkai
+* [Wikipedia](https://en.wikipedia.org/wiki/Soka_Gakkai) - Soka Gakkai is a Japanese Buddhist religious movement based on the teachings of the 13th-century Japanese priest Nichiren as taught by its first three presidents Tsunesaburō Makiguchi, Jōsei Toda and Daisaku Ikeda.
+* [Soka Gakkai International](http://www.sgi.org)
 
 # Vajrayana
 
