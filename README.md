@@ -18,10 +18,9 @@
 * [How to Meditate](https://www.lionsroar.com/category/how-to/) - Learn how to meditate with plain-language instructions and advice. - General
 * [Tibetan Buddhist Meditation](https://tricycle.org/magazine/tibetan-buddhist-meditation/) - Learn how to practice Tibetan Buddhist Meditation by focusing your attention on the mind. - Tibetan
 * [Meditation Online](http://www.meditationonline.org) - Online meditation groups using video chat. Free. - General
-
 * [Vipassana Fellowship](http://www.vipassana.com/course/) - Online meditation course. $140. - Theravada
 
-# Selected Teachings
+# Selected Buddhist Teachings
 
 ## On Relationships
 
@@ -44,7 +43,7 @@
 
 ## On Technology
 
-# History
+# History of Buddhism
 
 * [Silk Road transmission of Buddhism](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
 * [Buddhism in America](http://pluralism.org/religions/buddhism/buddhism-in-america/)
@@ -85,11 +84,6 @@
 * [Tiny Buddha](https://tinybuddha.com)
 * [Elephant Journal](https://www.elephantjournal.com)
 
-## Compilation Websites
-
-* [DharmaNet](http://www.dharmanet.org) - DharmaNet is a multi-media resource center for learning about meditation, wisdom, and compassionate action. 
-* [Study Buddhism](https://studybuddhism.com) - Study Buddhism is an extensive source of authentic Buddhist teachings, presented in a down-to-earth and practical way. Free, the aim is to make the wisdom of Tibet available and accessible.
-
 ## Social
 
 * [/r/buddhism](https://www.reddit.com/r/Buddhism/) on Reddit
@@ -106,6 +100,8 @@
 * [The Interdependence Project](http://theidproject.org/media) - General
 * [Zencast](http://www.zencast.org) - Zen
 
+## Video
+
 ## Book Publishers
 
 * [Wisdom Publications](http://www.wisdompubs.org) - General
@@ -114,7 +110,14 @@
 * [Tharpa Publications](http://tharpa.com) - New Kadampa
 * [Buddhist Publication Society](https://www.bps.lk) - Theravada
 
-# Humanitarian Organizations
+## More Compilation Websites
+
+* [DharmaNet](http://www.dharmanet.org) - DharmaNet is a multi-media resource center for learning about meditation, wisdom, and compassionate action. 
+* [Study Buddhism](https://studybuddhism.com) - Study Buddhism is an extensive source of authentic Buddhist teachings, presented in a down-to-earth and practical way. Free, the aim is to make the wisdom of Tibet available and accessible.
+
+-------------
+
+# Buddhist Civil Society
 
 * [Tzu Chi](http://tw.tzuchi.org/en) - Taiwanese international humanitarian and non-governmental organization (NGO) founded by Master Cheng Yen, a Taiwanese Buddhist nun. 🇹🇼
 
@@ -134,6 +137,7 @@ This section is a "map" of the various schools of Buddhism.
 * [Dhamma Wheel](https://dhammawheel.com) - A Buddhist discussion forum on the Dhamma of the Theravāda.
 * [dhammatalks.org](https://www.dhammatalks.org) - This site offers an extensive collection of English translations of suttas from the Pāli Canon, as well as a multitude of free downloads of Dhamma from the Kammaṭṭhāna (or Thai Forest) Tradition of Buddhism. 🎧
 * [Map of the Tipitaka](https://imgur.com/51aU7H2.jpg) 📷
+* [Insight Meditation](https://en.wikipedia.org/wiki/Insight_Meditation_Society)
 * [Barre Center for Buddhist Studies](https://www.bcbsdharma.org) 🇺🇸
 
 # Mahayana: Chan and Zen 🇨🇳🇹🇼🇯🇵🇰🇵🇰🇷
@@ -262,9 +266,8 @@ This section is a "map" of the various schools of Buddhism.
 #### Korean milgyo 🇰🇵🇰🇷
 * [Wikipedia](https://en.wikipedia.org/wiki/Vajrayana#Korean_milgyo) - Korean milgyo refers to Vajrayana practices and texts that arrived in Korea during the initial introduction of Buddhism to the region in 372 CE.
 
-# Other Forms
+# Ecumenical and Secular Buddhism 
 
-* [Insight Meditation](https://en.wikipedia.org/wiki/Insight_Meditation_Society)
 * [Triratna Buddhist Community](https://en.wikipedia.org/wiki/Triratna_Buddhist_Community)
 
 -------------
