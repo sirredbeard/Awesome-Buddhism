@@ -58,16 +58,17 @@
 
 # Notable Teachers
 
-* The Buddha
-* The Dalai Lama
-* Ajahn Chah
-* Thích Nhất Hạnh
-* Pema Chodron 
-* Sharon Salzberg
-* Dr. Robert Thurman
-* Dr. Judith Simmer-Brown
-* Dzigar Kongtrul Rinpoche
-* Ponlop Rinpoche
+* [The Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha)
+* [The Dalai Lama](https://www.dalailama.com/)
+* [Ajahn Chah](http://ajahnchah.org/)
+* [Thích Nhất Hạnh](https://plumvillage.org/about/thich-nhat-hanh/)
+* [Pema Chodron](https://pemachodronfoundation.org/)
+* [Sharon Salzberg](https://www.sharonsalzberg.com/)
+* [Dr. Robert Thurman](https://bobthurman.com/)
+* [Dr. Judith Simmer-Brown](http://www.naropa.edu/faculty/judith-simmer-brown.php)
+* [Dzigar Kongtrul Rinpoche](http://www.mangalashribhuti.org/)
+* [Ponlop Rinpoche](http://www.dpr.info/)
+* [Alan Watts](www.alanwatts.com/)
 
 # Media
 
@@ -81,6 +82,7 @@
 
 * [Tiny Buddha](https://tinybuddha.com)
 * [Elephant Journal](https://www.elephantjournal.com)
+* [Trike Daily](https://tricycle.org/trikedaily/)
 
 ## Social
 
@@ -100,16 +102,20 @@
 
 ## Art
 
+* [Wikipedia](https://en.wikipedia.org/wiki/Buddhist_art)
 * [Rubin Museum of Art](http://rubinmuseum.org/)
 
 ## Music
 
+* [Wikipedia](https://en.wikipedia.org/wiki/Buddhist_music)
 * [Sarah Patterson](https://store.cdbaby.com/cd/sarahpatterson3)
+* [Lama Tashi](https://en.wikipedia.org/wiki/Ngawang_Tashi_Bapu)
 
 ## Book Publishers
 
 * [Wisdom Publications](http://www.wisdompubs.org) - General
 * [Shambhala Publications](https://www.shambhala.com) - Tibetan
+* [Vajra Publications](http://vajrapub.com/) - Tibetan
 * [Windhorse Publications](https://www.windhorsepublications.com) - General
 * [Tharpa Publications](http://tharpa.com) - New Kadampa
 * [Buddhist Publication Society](https://www.bps.lk) - Theravada
@@ -127,7 +133,7 @@
 
 This next section is a "map" of the various schools of Buddhism.
 
-# Theravada 🇱🇰🇱🇦🇰🇭🇹🇭
+# Theravada 🇱🇰 🇱🇦 🇰🇭 🇹🇭
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Theravada) - Theravāda (Pali, literally "school of the elder monks") is a branch of Buddhism that uses the Buddha's teaching preserved in the Pāli Canon as its doctrinal core. 
 * [Acccess To Insight](https://www.accesstoinsight.org/index.html) - Readings in Theravada Buddhism.
@@ -143,16 +149,16 @@ This next section is a "map" of the various schools of Buddhism.
 ## Bangledesh
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Buddhism_in_Bangladesh)
-* [Sangharaj Nikaya](https://en.wikipedia.org/wiki/Sangharaj_Nikaya)
-* [Mahasthabir Nikaya](https://en.wikipedia.org/wiki/Mahasthabir_Nikaya)
+* [Sangharaj Nikaya](https://en.wikipedia.org/wiki/Sangharaj_Nikaya) - The Sangharaja Nikaya is a tradition of Theravada Buddhism, located in Bangladesh. The community consists largely of rural Bengali Buddhists. It was formed in 1864 by Sangharaja Saramedha Mahasthavira.
+* [Mahasthabir Nikaya](https://en.wikipedia.org/wiki/Mahasthabir_Nikaya) - The Mahasthabir Nikaya is a Bengali order of Buddhist monks. They are doctrinally identical to the Sangharaj Nikaya. Differences between the lineages are purely practical, i.e., they advocate different day-to-day practices for their monks. The distinction served only to maintain an organizational front, not a doctrinal opposition.
 
 ## Burma
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Buddhism_in_Myanmar)
-* [Thudhamma Nikaya](https://en.wikipedia.org/wiki/Thudhamma_Nikaya)
-* [Shwegyin Nikaya](https://en.wikipedia.org/wiki/Shwegyin_Nikaya)
-* [Dvaya Nikaya](https://en.wikipedia.org/wiki/Dwara_Nikaya)
-* [Hngettwin Nikaya](https://en.wikipedia.org/wiki/Hngettwin_Nikaya)
+* [Thudhamma Nikaya](https://en.wikipedia.org/wiki/Thudhamma_Nikaya) - Thudhamma Nikaya is the largest monastic order of monks in Burma, with 85-90% of Burmese monks (250,000) belonging to this order.
+* [Shwegyin Nikaya](https://en.wikipedia.org/wiki/Shwegyin_Nikaya) - Shwegyin Nikaya is the second largest monastic order of monks in Burma. Approximately five percent (50,000) of Burma's monks belong to this order.
+* [Dvaya Nikaya](https://en.wikipedia.org/wiki/Dwara_Nikaya) - Dvaya Nikaya a small monastic order of monks in Burma, numbering a three to four thousand monks, primarily in Lower Myanmar. The order is very conservative with respect to Vinaya regulations.
+* [Hngettwin Nikaya](https://en.wikipedia.org/wiki/Hngettwin_Nikaya) - Hngettwin Nikaya is a monastic order of monks in Burma, numbering approximately 1,000 monks, primarily in Mandalay.
 
 ## Sri Lanka
 
@@ -178,13 +184,13 @@ This next section is a "map" of the various schools of Buddhism.
 
 ## Tantric Therevada
 
-*See in [Other Vajrayana].*
+*See in [Other Vajrayana](#other-vajrayana).*
 
 # Mahayana
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Mahayana)
 
-## Chan and Zen 🇨🇳🇹🇼🇯🇵🇰🇵🇰🇷
+## Chan and Zen 🇨🇳 🇹🇼 🇯🇵 🇰🇵 🇰🇷
 
 ### Chan
 * [Wikipedia](https://en.wikipedia.org/wiki/Chan_Buddhism) - Chan is a tradition of Mahāyāna Buddhism developed in China from the 6th century CE onwards. After Yuan Dynasty (1279–1368), Chan more or less fused with Pure Land Buddhism. Chan spread south to Vietnam as Thiền and north to Korea as Seon, and, in the 13th century, east to Japan as Zen.
@@ -212,11 +218,12 @@ This next section is a "map" of the various schools of Buddhism.
 
 ## Pure Land 
 
-### Pure Land 🇨🇳🇹🇼🇯🇵🇰🇵🇰🇷
+### Pure Land 🇨🇳 🇹🇼 🇯🇵 🇰🇵 🇰🇷
 * [Wikipedia](https://en.wikipedia.org/wiki/Pure_Land_Buddhism) - Pure Land Buddhism is a broad branch of Mahayana Buddhism and one of the most widely practiced traditions of Buddhism in East Asia. Pure Land is a tradition of Buddhist teachings that are focused on the Buddha Amitābha. Pure Land Buddhism is built on the belief that we will never have a world which is not corrupt, so we must strive for re-birth in another plane, referred to as the "Pure Land".
 
 ### Jōdo Shinshū 🇯🇵
 * [Wikipedia](https://en.wikipedia.org/wiki/Jōdo_Shinshū) - Jōdo Shinshū also known as Shin Buddhism, is a school of Pure Land Buddhism. It was founded by the former Tendai Japanese monk Shinran. Shin Buddhism is considered the most widely practiced branch of Buddhism in Japan.
+* [Jodo Shu Headquarters](http://www.jodo.org/index.html)
 * [A Primer of Shin Buddhism](http://www.nembutsu.info/primshin.htm)
 
 ## Additional Chinese 🇨🇳🇹🇼
@@ -236,7 +243,7 @@ This next section is a "map" of the various schools of Buddhism.
 
 # Vajrayana
 
-## Tibetan ༀ
+## Tibetan
 * [Wikipedia](https://en.wikipedia.org/wiki/Tibetan_Buddhism) - Tibetan Buddhism is the form of Buddhist Vajrayana doctrine and institutions named after the lands of Tibet, but also found in the regions surrounding the Himalayas and much of Central Asia. It derives from the latest stages of Indian Buddhism and preserves the Tantric status quo of eighth-century India. It has been spread outside of Tibet, especially due to the Mongol power of the Yuan dynasty (1271–1368), founded by Kublai Khan, that also ruled China. Tibetan Buddhism applies Tantric practices, especially deity yoga, and aspires to Buddhahood.
 * [Rigpa Shedra Wiki](http://www.rigpawiki.org/index.php?title=Main_Page) - An online encyclopedia of Tibetan Buddhism.
 * [84000](http://read.84000.co) - 84000’s primary focus for translation is the canonical Tibetan texts included in the Kangyur and Tengyur.
@@ -257,7 +264,7 @@ This next section is a "map" of the various schools of Buddhism.
 ###### Phagdru Kagyu (Extinct)
 * [Wikipedia](https://en.wikipedia.org/wiki/Kagyu#Phagdru_Kagyu) - The Phagdru Kagyu was founded by Phagmo Drupa Dorje Gyalpo. From 1435 to 1481 the power of the Phagmodrupa declined and they were eclipsed by the Rinpungpa of Tsang, who patronized the Karma Kagyu. The Phagmo Drupa monastery of Dentsa Thel was destroyed during the Chinese Cultural Revolution.
 
-#### Eight secondary branches of Kagyu
+#### Eight Secondary Branches of Kagyu
 "Primary" here refers to those Kagyu lineages founded by the immediate disciples of Gampopa (1079-1153) while "secondary" refers to all the lineages founded by disciples of Phagmo Drupa (1110-1170), the main disciple of Gampopa.
 
 ###### Drikung Kagyu
@@ -298,6 +305,8 @@ This next section is a "map" of the various schools of Buddhism.
 * [Wikipedia](https://en.wikipedia.org/wiki/Kadam_(Tibetan_Buddhism)) - Kadam was founded by Dromtön (1005–1064), a Tibetan lay master and the foremost disciple of the great Bengali master Atiśa. The school is known for it's Lojong Oral Transmission Teachings. The Kadam tradition ceased to exist as an independent tradition by the end of the 16th century. Nowadays the Gelug tradition keeps and transmits the Kadam lineage of the Scriptural Traditions of the Six Canonical Texts. Together with Dagpo Kagyu Tradition they keep and transmit The Pith Instructions of the Sixteen Essences, and the Dagpo Kagyu Tradition keeps and transmits the Key Instructions of the Four Noble Truths.
 #### Rime Movement
 * [Wikipedia](https://en.wikipedia.org/wiki/Rimé_movement) - The Rimé movement is a movement involving the Sakya, Kagyu and Nyingma schools of Tibetan Buddhism, along with some Bon scholars. Rimé was intended to recognize the differences between traditions and appreciate them, while also establishing a dialogue which would create common ground. Rimé is responsible for a number of scriptural compilations, such as the Rinchen Terdzod and the Sheja Dzö.
+#### New Kadampa
+* [Wikipedia](https://en.wikipedia.org/wiki/New_Kadampa_Tradition) - The New Kadampa Tradition – International Kadampa Buddhist Union (NKT—IKBU) is a global Buddhist new religious movement founded by Kelsang Gyatso in England in 1991. The NKT-IKBU describes itself as ‘an entirely independent Buddhist tradition’ inspired and guided by ‘the ancient Kadampa Buddhist Masters and their teachings, as presented by Kelsang Gyatso’.
 
 ## Japanese Vajrayana 🇯🇵
 
