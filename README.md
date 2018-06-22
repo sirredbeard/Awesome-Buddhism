@@ -22,7 +22,7 @@
 ## On Relationships
 
 * [Buddhism and Relationships](http://archive.is/c91Mc)
-* [Buddhism & Relationships: the Four Noble Truths of Love](https://www.elephantjournal.com/2017/10/buddhism-relationships-the-four-noble-truths-of-love/)
+* [Buddhism & Relationships: the Four Noble Truths of Love](http://archive.is/i4jvC)
 
 ## On Money
 
@@ -64,7 +64,7 @@
 * Thích Nhất Hạnh
 * Pema Chodron 
 * Sharon Salzberg
-* Robert Thurman
+* Dr. Robert Thurman
 * Dr. Judith Simmer-Brown
 * Dzigar Kongtrul Rinpoche
 * Ponlop Rinpoche
@@ -98,11 +98,13 @@
 * [The Interdependence Project](http://theidproject.org/media) - General
 * [Zencast](http://www.zencast.org) - Zen
 
-## Video
-
 ## Art
 
+* [Rubin Museum of Art](http://rubinmuseum.org/)
+
 ## Music
+
+* [Sarah Patterson](https://store.cdbaby.com/cd/sarahpatterson3)
 
 ## Book Publishers
 
@@ -138,48 +140,99 @@ This next section is a "map" of the various schools of Buddhism.
 * [Insight Meditation](https://en.wikipedia.org/wiki/Insight_Meditation_Society)
 * [Barre Center for Buddhist Studies](https://www.bcbsdharma.org) 🇺🇸
 
-# Mahayana: Chan and Zen 🇨🇳🇹🇼🇯🇵🇰🇵🇰🇷
+## Bangledesh
 
-## Chan
+* [Wikipedia](https://en.wikipedia.org/wiki/Buddhism_in_Bangladesh)
+* [Sangharaj Nikaya](https://en.wikipedia.org/wiki/Sangharaj_Nikaya)
+* [Mahasthabir Nikaya](https://en.wikipedia.org/wiki/Mahasthabir_Nikaya)
+
+## Burma
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Buddhism_in_Myanmar)
+* [Thudhamma Nikaya](https://en.wikipedia.org/wiki/Thudhamma_Nikaya)
+* [Shwegyin Nikaya](https://en.wikipedia.org/wiki/Shwegyin_Nikaya)
+* [Dvaya Nikaya](https://en.wikipedia.org/wiki/Dwara_Nikaya)
+* [Hngettwin Nikaya](https://en.wikipedia.org/wiki/Hngettwin_Nikaya)
+
+## Sri Lanka
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Buddhism_in_Sri_Lanka)
+* [Siam Nikaya](https://en.wikipedia.org/wiki/Siam_Nikaya)
+* [Amarapura Nikaya](https://en.wikipedia.org/wiki/Amarapura_Nikaya)
+* [Ramañña Nikaya](https://en.wikipedia.org/wiki/Ramanna_Nikaya)
+
+## Thailand
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Buddhism_in_Thailand)
+* [Maha Nikaya](https://en.wikipedia.org/wiki/Maha_Nikaya)
+	* [Dhammakaya Movement](https://en.wikipedia.org/wiki/Dhammakaya_Movement)
+	* [Mahasati Meditation](https://en.wikipedia.org/wiki/Mahasati_meditation)
+* [Thammayut Nikaya](https://en.wikipedia.org/wiki/Dhammayuttika_Nikaya)
+	* [Thai Forest Tradition](https://en.wikipedia.org/wiki/Thai_Forest_Tradition)
+		* [Forest Sangha](https://forestsangha.org/)
+
+## Vipassana Movement
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Vipassana_movement)
+* [What Exactly Is Vipassana Meditation?](https://tricycle.org/magazine/vipassana-meditation/)
+
+## Tantric Therevada
+
+*See in [Other Vajrayana].*
+
+# Mahayana
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Mahayana)
+
+## Chan and Zen 🇨🇳🇹🇼🇯🇵🇰🇵🇰🇷
+
+### Chan
 * [Wikipedia](https://en.wikipedia.org/wiki/Chan_Buddhism) - Chan is a tradition of Mahāyāna Buddhism developed in China from the 6th century CE onwards. After Yuan Dynasty (1279–1368), Chan more or less fused with Pure Land Buddhism. Chan spread south to Vietnam as Thiền and north to Korea as Seon, and, in the 13th century, east to Japan as Zen.
+* [Exploring Chan](http://www.eyeofchan.org/)
 
-## Korean Seon
+### Korean Seon
 * [Wikipedia](https://en.wikipedia.org/wiki/Korean_Seon) - Seon is the religious Korean denomination of Chan Buddhism tradition. A primary feature of Seon Buddihism is a method of mediation, Ganhaw Seon. In the early 20th century, Master Kyongho (1849–1912), re-energized Korean Seon.
+* [Jogye Order of Korean Buddhism](http://www.koreanbuddhism.net/)
 
-## Japanese Zen
+### Japanese Zen
 * [Wikipedia](https://en.wikipedia.org/wiki/Japanese_Zen) - Zen is the Japanese variant of Chan Buddhism, a Mahayana school that strongly emphasizes dhyana concentration-meditation. This practice, according to Zen proponents, gives insight into one's true nature, or the emptiness of inherent existence, which opens the way to a liberated way of living.
-### Sōtō
+
+#### Sōtō
 * [Wikipedia](https://en.wikipedia.org/wiki/Sōtō) - Sōtō is the largest of the three traditional sects of Zen in Japanese Buddhism. It emphasizes Shikantaza, meditation with no objects, anchors, or content. The meditator strives to be aware of the stream of thoughts, allowing them to arise and pass away without interference.
 * [Soto Zen International Official Website](http://global.sotozen-net.or.jp/eng/index.html) 🇯🇵
 * [The Shōbōgenzō](http://www.thezensite.com/ZenTeachings/Dogen_Teachings/Shobogenzo_Complete.html)
-### Rinzai
+
+#### Rinzai
 * [Wikipedia](https://en.wikipedia.org/wiki/Rinzai_school) - Rinzai is one of three sects of Zen in Japanese Buddhism. Rinzai Zen is marked by the emphasis it places on kensho ("seeing one's true nature") as the gateway to authentic Buddhist practice, and for its insistence on many years of exhaustive post-kensho training to embody the free functioning of wisdom within the activities of daily life.
 * [Joint Council of Rinzai and Ōbaku Zen](http://zen.rinnou.net/index.html) 🇯🇵
-### Ōbaku
+
+#### Ōbaku
 * [Wikipedia](https://en.wikipedia.org/wiki/Ōbaku) - Ōbaku is often termed the third sect of Zen Buddhism in Japan, it was established in 1661 by a small gruop of masters from China and their Japanese students at Manpuku-ji in Uji, Japan. In addition to their contribution to the culture of Zen in Japan, the Ōbaku also "disseminated many aspects of Ming-period culture" in the country.
 * [Joint Council of Rinzai and Ōbaku Zen](http://zen.rinnou.net/index.html) 🇯🇵
 
-# Mahayana: Pure Land 
+## Pure Land 
 
-## Pure Land 🇨🇳🇹🇼🇯🇵🇰🇵🇰🇷
+### Pure Land 🇨🇳🇹🇼🇯🇵🇰🇵🇰🇷
 * [Wikipedia](https://en.wikipedia.org/wiki/Pure_Land_Buddhism) - Pure Land Buddhism is a broad branch of Mahayana Buddhism and one of the most widely practiced traditions of Buddhism in East Asia. Pure Land is a tradition of Buddhist teachings that are focused on the Buddha Amitābha. Pure Land Buddhism is built on the belief that we will never have a world which is not corrupt, so we must strive for re-birth in another plane, referred to as the "Pure Land".
 
 ### Jōdo Shinshū 🇯🇵
 * [Wikipedia](https://en.wikipedia.org/wiki/Jōdo_Shinshū) - Jōdo Shinshū also known as Shin Buddhism, is a school of Pure Land Buddhism. It was founded by the former Tendai Japanese monk Shinran. Shin Buddhism is considered the most widely practiced branch of Buddhism in Japan.
+* [A Primer of Shin Buddhism](http://www.nembutsu.info/primshin.htm)
 
-# Additional Chinese Mahayana 🇨🇳🇹🇼
+## Additional Chinese 🇨🇳🇹🇼
 
-## Huayan
-* [Wikipedia](https://en.wikipedia.org/wiki/Huayan) - Huayan is a tradition of Mahayana Buddhist philosophy that first flourished in China during the Tang dynasty. The Huayen teachines are  based primarily on the Avatamsaka Sutra. Huayan School is known as Hwaeom in Korea and Kegon in Japan. The tradition also had a strong influence on Chan Buddhism.
+### Huayan
+* [Wikipedia](https://en.wikipedia.org/wiki/Huayan) - Huayan is a tradition of Mahayana Buddhist philosophy that first flourished in China during the Tang dynasty. The Huayen teachines are  based primarily on the Avatamsaka Sutra. Huayan School is known as Hwaeom in Korea and Kegon in Japan. The tradition had a strong influence on Chan Buddhism.
 
-# Additional Japanese Mahayana 🇯🇵
+## Additional Japanese 🇯🇵
 
-## Nichiren
+### Nichiren
 * [Wikipedia](https://en.wikipedia.org/wiki/Nichiren) - Nichiren Buddhism is a branch of Mahayana Buddhism based on the teachings of the 13th century Japanese priest Nichiren (1222–1282). Nichiren Buddhism focuses on the Lotus Sutra doctrine that all people have an innate Buddha-nature. There are two essential emphases in the practice of Nichiren Buddhism. First is the chanting of [Nam Myoho Renge Kyo](https://en.wikipedia.org/wiki/Namu_Myōhō_Renge_Kyō) which Nichiren believers contend has extraordinary power. Second is the [Gohonzon](https://en.wikipedia.org/wiki/Gohonzon), a calligraphy which is prominently displayed in the home or temple altars of Nichiren believers.
 
-## Soka Gakkai
+### Soka Gakkai
 * [Wikipedia](https://en.wikipedia.org/wiki/Soka_Gakkai) - Soka Gakkai is a Japanese Buddhist religious movement based on the teachings of the 13th-century Japanese priest Nichiren as taught by its first three presidents Tsunesaburō Makiguchi, Jōsei Toda and Daisaku Ikeda.
 * [Soka Gakkai International](http://www.sgi.org)
+* [Soka Gakkai International - USA](http://www.sgi-usa.org)
 
 # Vajrayana
 
