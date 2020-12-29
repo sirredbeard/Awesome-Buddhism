@@ -32,6 +32,10 @@
 * [The Buddha on Making Money](https://www.christophertitmussblog.org/the-buddha-on-making-money)
 * [Does Buddhism say I should give money to panhandlers?](https://www.lionsroar.com/does-buddhism-say-i-should-give-money-to-panhandlers/)
 
+## On Desire
+
+* [Desire](https://youtu.be/VeShNoUXnxw)
+
 ## On Science
 
 * [Where Buddhism and Science Meet: Teachings, Commentary, and News](https://www.lionsroar.com/buddhism-science-teachings-reports-commentaries-and-conversations/)
