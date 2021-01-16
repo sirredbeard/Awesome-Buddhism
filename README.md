@@ -69,6 +69,7 @@
 * [Dzigar Kongtrul Rinpoche](http://www.mangalashribhuti.org/)
 * [Ponlop Rinpoche](http://www.dpr.info/)
 * [Alan Watts](www.alanwatts.com/)
+* [Bhante Henepola Gunaratana](https://www.bhavanasociety.org/teachers/bg)
 
 # Media
 
